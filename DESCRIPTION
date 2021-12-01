@@ -1,0 +1,15 @@
+Package: adventofcode21
+Title: Advent of Code Puzzle Challenges for 2021
+Version: 0.0.1
+Authors@R:
+    person("Nima", "Hejazi", , "nh@nimahejazi.org",
+           role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-7127-2789"))
+Description: Solutions to the Advent of Code puzzle challenges for 2021.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
